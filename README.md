@@ -24,15 +24,27 @@ Project Member:- Ayush Agarwal
  
 Project Schedule
 Day 1-2 : Understand the problem
+
 Day 3: Aquire Data set
+
 Day 4: Clean the data 
+
 Day 5: Perform EDA- Exploratory Data Analysis
+
 Day 6-9 : Creation of the regression (Machine Learning) model on Jupyter Notebook on local PC.
+
 Day 10-12 : Explore the functions of Watson Studio and IBM Cloud
+
 Day 13-15: Explore Node Red and its functionalities
+
 Day 16: Take the notebook on the local PC on Watson Studio
+
 Day 17: Complete the back end of the project by coding in Watson Studio and make sure you obtain the scoring endpoint
+
 Day 18-20: Work on node red and make a UI which users can easily operate
+
 Day 21: Connect the backend (Watson Studio) to front end (Node Red)
+
 Day 22: Check if everything is working and try to predict the life expectancy of a person by entering the values
+
 
