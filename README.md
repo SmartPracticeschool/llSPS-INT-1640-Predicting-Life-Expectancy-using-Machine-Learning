@@ -47,4 +47,4 @@ Day 21: Connect the backend (Watson Studio) to front end (Node Red)
 
 Day 22: Check if everything is working and try to predict the life expectancy of a person by entering the values
 
-
+Link to watch the working model:- https://drive.google.com/drive/folders/1E29u0kNz3tL4bVhIz3GK-fxTVxn6s19k?usp=sharing
