@@ -1,4 +1,4 @@
-# llSPS-INT-1640-Predicting-Life-Expectancy-using-Machine-Learning
+# Predicting-Life-Expectancy-using-Machine-Learning
 Predicting Life Expectancy using Machine Learning
 
 
